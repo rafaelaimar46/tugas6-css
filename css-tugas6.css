@@ -1,0 +1,24 @@
+p {
+	background-color:aqua;
+	width:350px;
+	height:70px;
+	overflow:auto;
+}
+
+.satu {
+	border-width:10px;
+	border-style:dotted;
+	border-color:red;
+}
+
+.dua {
+	border-width:10px;
+	border-style:solid;
+	border-color:green;
+}
+
+.tiga {
+	border-width:20px;
+	border-style:dashed;
+	border-color:blue;
+}
